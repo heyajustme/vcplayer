@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/subinps/VCPlayerBot?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/subinps/VCPlayerBot?style=flat)
 
-Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
+Telegram bot to stream videos in telegram voicechat for vekhb both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
 ## Config Vars:
 ### Mandatory Vars
